@@ -1,39 +1,40 @@
 {
-    "name": "sizebay-web-extension-pack",
-    "author": "Sizebay <dev@sizebay.com> (https://sizebay.com)",
-    "displayName": "Sizebay Web Extension Pack",
-    "description": "Extensions used by the Sizebay Web Development team.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.58.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [ 
-        "chenglou92.rescript-vscode", 
-        "clinyong.vscode-css-modules", 
-        "dbaeumer.vscode-eslint", 
-        "eamodio.gitlens", 
-        "esbenp.prettier-vscode", 
-        "hashicorp.terraform", 
-        "jpoissonnier.vscode-styled-components", 
-        "jsxtools.jstl", 
-        "mikestead.dotenv", 
-        "ms-python.python", 
-        "ms-python.vscode-pylance", 
-        "ms-vscode-remote.remote-wsl", 
-        "ms-vscode.atom-keybindings", 
-        "ms-vscode.live-server", 
-        "ms-vsliveshare.vsliveshare", 
-        "ms-vsliveshare.vsliveshare-pack", 
-        "rid9.datetime", 
-        "shardulm94.trailing-spaces", 
-        "steoates.autoimport", 
-        "svelte.svelte-vscode", 
-        "VisualStudioExptTeam.vscodeintellicode", 
-        "vscode-icons-team.vscode-icons", 
-        "wayou.vscode-todo-highlight", 
-        "webreflection.literally-html"
-    ]
+  "name": "sizebay-web-extension-pack",
+  "author": "Sizebay <dev@sizebay.com> (https://sizebay.com)",
+  "publisher": "Sizebay",
+  "displayName": "Sizebay Web Extension Pack",
+  "repository": "https://github.com/sizebay/sizebay-web-extension-pack",
+  "description": "Extensions used by the Sizebay Web Development team.",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "chenglou92.rescript-vscode",
+    "clinyong.vscode-css-modules",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "hashicorp.terraform",
+    "jpoissonnier.vscode-styled-components",
+    "jsxtools.jstl",
+    "mikestead.dotenv",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-vscode-remote.remote-wsl",
+    "ms-vscode.atom-keybindings",
+    "ms-vscode.live-server",
+    "ms-vsliveshare.vsliveshare-pack",
+    "rid9.datetime",
+    "shardulm94.trailing-spaces",
+    "steoates.autoimport",
+    "svelte.svelte-vscode",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "vscode-icons-team.vscode-icons",
+    "wayou.vscode-todo-highlight",
+    "webreflection.literally-html"
+  ]
 }

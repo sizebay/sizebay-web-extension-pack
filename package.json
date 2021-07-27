@@ -4,9 +4,9 @@
   "publisher": "Sizebay",
   "displayName": "Sizebay Web Extension Pack",
   "repository": "https://github.com/sizebay/sizebay-web-extension-pack",
-  "image": "images/logo.png",
+  "icon": "images/logo.png",
   "description": "Extensions used by the Sizebay Web Development team.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.58.0"
   },
